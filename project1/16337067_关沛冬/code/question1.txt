@@ -1,0 +1,11 @@
+Average: 14.270977
+Median: 12.825000
+0.25 Quantile: 9.985000
+0.75 Quantile: 16.785000
+Variance: 43.483923
+Standard deviation: 6.594234
+Coefficient of variation: 46.207306
+Range: 42.850000
+Four fraction range: 6.800000
+Skewness: 1.800776
+Kurtosis: 4.419173

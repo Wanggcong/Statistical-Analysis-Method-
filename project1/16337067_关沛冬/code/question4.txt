@@ -1,0 +1,26 @@
+Pearson correlation coefficient: 0.777194
+Spearman correlation coefficient: 0.509898
+Max
+000708 000059 Pearson correlation coefficient: 0.906339  p value:0.000000
+000069 000006 Pearson correlation coefficient: 0.915083  p value:0.000000
+000567 000025 Pearson correlation coefficient: 0.927097  p value:0.000000
+000046 000006 Pearson correlation coefficient: 0.946432  p value:0.000000
+000069 000046 Pearson correlation coefficient: 0.949496  p value:0.000000
+Min
+000661 000521 Pearson correlation coefficient: 0.000554  p value:0.956478
+000632 000525 Pearson correlation coefficient: 0.000841  p value:0.984932
+000425 000036 Pearson correlation coefficient: 0.001079  p value:0.912675
+000090 000049 Pearson correlation coefficient: 0.001347  p value:0.966216
+000598 000062 Pearson correlation coefficient: 0.001428  p value:0.883596
+Spearman Max
+000702 000421 Spearman correlation coefficient: 0.930884  p value:0.000000
+000661 000423 Spearman correlation coefficient: 0.931183  p value:0.000000
+000418 000025 Spearman correlation coefficient: 0.936061  p value:0.000000
+000567 000025 Spearman correlation coefficient: 0.943159  p value:0.000000
+000661 000028 Spearman correlation coefficient: 0.961674  p value:0.000000
+Min
+000088 000001 Spearman correlation coefficient: 0.000092  p value:0.964823
+000661 000012 Spearman correlation coefficient: 0.000264  p value:0.917798
+000667 000567 Spearman correlation coefficient: 0.000544  p value:0.980600
+000538 000078 Spearman correlation coefficient: 0.000630  p value:0.979225
+000717 000525 Spearman correlation coefficient: 0.000823  p value:0.920794

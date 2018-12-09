@@ -1,0 +1,2 @@
+Pearson correlation coefficient: 0.029816
+Spearman correlation coefficient: -0.018696
