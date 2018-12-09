@@ -1,0 +1,12 @@
+ave=csvread('average1.csv');
+da=mean(ave)                            %日均价
+Me=median(ave)                          %中位数
+Qf=prctile(ave,25)                      %0.25
+Qb=prctile(ave,75)                      %0.75
+sd=std2(ave)                            %标准差
+var=sd*sd                               %方差
+cv=sd/da                                %变异系数
+pd=max(ave)-min(ave)                    %极差 
+qr=iqr(ave)                             %四分位极差
+sk=skewness(ave)                        %偏度 
+ku=kurtosis(ave)                        %峰度

@@ -1,0 +1,9 @@
+000012的股价和成交量的Pearson相关系数
+          price  volume
+price  1.00000 0.02982
+volume 0.02982 1.00000 
+
+ 000012的股价和成交量的Spearman相关系数
+           price   volume
+price   1.00000 -0.01870
+volume -0.01870  1.00000
